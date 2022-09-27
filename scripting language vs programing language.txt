@@ -1,0 +1,52 @@
+Scripting Vs. Programming Languages: Know What is the Difference Between Scripting and Programming Languages
+
+Every scripting language is basically a programming language. The only theoretical difference is that a scripting language does not include the compilation step- it is interpreted instead. For instance, one needs to first compile a C program before running it. On the other hand, one does not need to compile a scripting language such as PHP or JavaScript. There are various ways in which both languages vary. In this article, we will dive deeper into the difference between scripting and programming languages. But let us first take a brief look at both of them.
+What is a Scripting Language?
+
+    Scripting languages help in automating various software apps, web pages in a browser, shell usage of an OS (operating system), etc. The scripting languages like VBScript, Perl, Javascript, etc., do not require compilation, and they have less access to any computer’s native abilities. It is because these rather run on an original programming language’s subset. An example here could be that the Javascript won’t have the ability to access your file system.
+    Generally, a scripting language is interpreted. It doesn’t primarily focus on building applications- but it can render behavior to an application that already exists. It basically helps in writing codes for targeting a software system. Thus, it can also automate a given operation on any software system. So basically, scripts act as a set of instructions that target any software system.
+    The scripting languages have eventually evolved and become more powerful. They now no longer create minute scripts for automating a software system’s operations. One can also use scripting languages for building rich applications. These can customize, manipulate, and automate an existing system’s facilities. The scripting languages come with a mechanism that exposes functionality to the program control.
+
+What is a Programming Language?
+
+    One needs to compile the programming languages to machine code so as to run them on the hardware of an underlying OS (operating system). A user needs to deploy a certain Integrated Development Environment (IDE) for using programming languages. A programmer needs to provide an instruction set for the computers for achieving certain goals. One can also implement certain algorithms by writing the programs.
+    Out of all the programming languages present in the market, specific documentation dominates a majority of them. All the other languages comprise dominant implementation (treated as a reference). An example here is that the ISO standard associates with the C programming language. On the other hand, languages like Perl belong to the latter category.
+    One can use a programming language for transforming data. It basically happens when creating those CPU instructions that jot down the input info into the output. An example here is using a set of conditions for solving an equation set. One can consider various programming languages such as C, C++, Scala, Java, etc., as general-purpose languages. These fall under the compiled programming languages. You must add some texts to write the score code, and then you can run them through a compiler. As a result, it would create various binary instructions.
+
+
+Difference Between Scripting and Programming Languages
+Parameters 	                Scripting Language 	                                                      		 			 Programming Language
+
+Language Type :-	    	 The scripting languages are interpreter-based languages.    					The programming languages are compiler-based languages.
+
+Use 	  	:-	The scripting languages help in combining the existing components of an application. 			The programming languages help in developing anything from scratch.
+
+Running of Language :-	A user needs to run scripting languages inside an existing program. Thus, it’s program-dependent. 	Programming languages are program-independent.
+
+Conversion 	:-	Scripting languages convert high-level instructions into machine language. 				Programming languages help in converting the full program into the machine language (at once).
+
+Compilation 	:-	You don’t need to compile these languages. 								These languages first need a compilation.
+
+Design 		:-	These make the coding process simple and fast. 								These provide full usage of the languages.
+
+File Type 	:-	Scripting languages don’t create any file types. 							Programming languages create .exe files.
+
+Complexity 	:-	These are very easy to use and easy to write. 								These are pretty complex in terms of writing and usage.
+
+Type of Coding 	:-	Scripting languages help write a small piece of an entire code. 					Programming languages help write the full code concerning a program.
+
+Developing Time :-	These take less time because they involve lesser code. 							These take more time because a programmer must write the entire code.
+
+Interpretation 	:-	We usually interpret a scripting language in another program.					 	The compile results of a programming language are stand-alone. No other program needs to interpret it.
+
+Requirement of Host :-	Scripting languages require hosts for execution. 							Programming languages are self-executable. They don’t require any host.
+
+Length of Codes :-	These involve very few and short coding lines. 								These require numerous lines of coding for a single function.
+
+Support 	:-	These provide limited support to data types, user interface design, and graphic design. 		These provide rich support for graphic design, data types, and user interface design.
+
+Maintenance 	:-	These involve very low maintenance. 									These involve high maintenance.
+
+Cost 		:-	It is easier and cheaper to maintain a scripting language. 						Maintaining a programming language is comparatively more expensive.
+
+Example 	:-	VB Script, Perl, Ruby, PHP, JavaScript, etc. 								C, C++, COBOL, Basic, VB, C#, Pascal, Java, etc.
